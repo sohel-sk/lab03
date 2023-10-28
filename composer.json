@@ -1,0 +1,17 @@
+{
+    "name": "company/util",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Util\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sohel-sk",
+            "email": "sohelsheikh9623@gmail.com"
+        }
+    ],
+    "require": {}
+}
